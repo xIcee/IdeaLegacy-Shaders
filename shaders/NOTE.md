@@ -1,0 +1,3 @@
+## This specific subdirectory of the shader is included for compatibility purposes.
+
+Some shaders mods read the files in the _root_ of the zip file, others require shader files inside of the _./shaders_ directory. The files in this folder are **duplicates** of those in the root directory. If you know what you're doing, you can safely **delete** either one or the other, or move files around for specific shaders mod implementations.
